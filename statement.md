@@ -1,8 +1,9 @@
 # Proposition de code pour une architecture MVC !
 
-Classe de base implémentant le singleton pour la connexion à la base de données
+
 
 # Fichier classes/bdd_mysql.class.php
+Classe de base implémentant le singleton pour la connexion à la base de données
 
 ```php runnable
 <?php
