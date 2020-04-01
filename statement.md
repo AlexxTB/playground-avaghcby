@@ -167,7 +167,7 @@ class bdd_mysql{
 	}
 	?>
 ```
-# Fichier controller/form.php
+# Fichier controller/create.php
 ```php runnable
 <?php
 	var_dump($_POST);
